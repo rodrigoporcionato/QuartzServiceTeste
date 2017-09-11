@@ -1,0 +1,9 @@
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\QuartzServiceTeste.exe.config
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\QuartzServiceTeste.exe
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\QuartzServiceTeste.pdb
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\Quartz.dll
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\Common.Logging.Core.dll
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\Common.Logging.dll
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\bin\Debug\Quartz.xml
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\obj\Debug\QuartzServiceTeste.exe
+c:\users\rodrigo.palves\documents\visual studio 2015\Projects\QuartzServiceTeste\obj\Debug\QuartzServiceTeste.pdb
