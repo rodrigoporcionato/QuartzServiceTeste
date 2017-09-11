@@ -1,4 +1,4 @@
-# QuartzServiceTeste
+# QuartzServiceTeste Windows Service with Quartz.NET
 
 Serviço Windows baseado em Quartz.NET
 
